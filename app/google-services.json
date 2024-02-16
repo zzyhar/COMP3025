@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "895918539233",
+    "firebase_url": "https://classno1-7baf0-default-rtdb.firebaseio.com",
+    "project_id": "classno1-7baf0",
+    "storage_bucket": "classno1-7baf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895918539233:android:aed480debe8b93cdb152a0",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD1iZpUtIwWUqDdd_7KRaqMg-X3LGKdDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
